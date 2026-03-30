@@ -1,9 +1,5 @@
 next games are:
-
-Tetris
-
-Tanks
-
-Tower defence
-
-Shmup (arcade space shooter)
+Tetris : old god'known game with a chance to get exploding block (game)
+Tanks :  realtime-plannig algorithm base AI of opponents
+Tower defence : -
+Shmup (arcade space shooter) : -
